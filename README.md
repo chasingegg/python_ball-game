@@ -4,8 +4,8 @@ a simple game using python
 author: Damon Gao, SJTU  
 python version: 2.7  
 game introduction:  
-  1.mode1: control the paddle to cause the ball to bounce back to eliminate the brick  
-  2.mode2: two players control the paddle  
+  ####mode1: control the paddle to cause the ball to bounce back to eliminate the brick  
+  ####mode2: two players control the paddle  
 run the code:  
   1.linux/maxos: type python ball.py in command line to start  
   2.windows: use the IDLE or so  
